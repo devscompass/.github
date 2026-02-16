@@ -6,7 +6,7 @@ I take security seriously and will actively work to resolve security issues.
 
 Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.
 
-Instead, please send an email to [zbhavyai@gmail.com](mailto:zbhavyai@gmail.com). I ask that you give me sufficient time to investigate and address the vulnerability before disclosing it publicly.
+Instead, please send an email to [security@devscompass.com](mailto:security@devscompass.com). I ask that you give me sufficient time to investigate and address the vulnerability before disclosing it publicly.
 
 Please include the following details in your report:
 
@@ -25,4 +25,4 @@ While I do my best to secure my project, users are encouraged to implement their
 
 ## Contact
 
-For any other questions or concerns, please contact me at [zbhavyai@gmail.com](mailto:zbhavyai@gmail.com).
+For any other questions or concerns, please contact me at [hello@devscompass.com](mailto:hello@devscompass.com).
